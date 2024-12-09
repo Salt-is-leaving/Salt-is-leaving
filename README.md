@@ -1,4 +1,4 @@
-## Hello World, Welcome to My GitHub sandbox 😾
+## Hello World - Welcome to My GitHub sandbox 😾
 
 I'm a Data Science student (Major) currently cracking the basics of ML & DL, and the good old Statistics. 
 Trying to keep track of the AI projects applied to the real-world industrial problems (Minor in Engineering).
